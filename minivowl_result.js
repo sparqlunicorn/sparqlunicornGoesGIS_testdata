@@ -69,14 +69,7 @@ var minivowlresult={
  "links": [
   {
    "source": 11,
-   "target": 10,
-   "valueTo": "member",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
-  },
-  {
-   "source": 11,
-   "target": 7,
+   "target": 6,
    "valueTo": "member",
    "propertyTo": "class",
    "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
@@ -97,21 +90,21 @@ var minivowlresult={
   },
   {
    "source": 11,
-   "target": 6,
-   "valueTo": "member",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
-  },
-  {
-   "source": 6,
    "target": 10,
    "valueTo": "member",
    "propertyTo": "class",
    "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
   },
   {
-   "source": 6,
+   "source": 11,
    "target": 7,
+   "valueTo": "member",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
+  },
+  {
+   "source": 6,
+   "target": 6,
    "valueTo": "member",
    "propertyTo": "class",
    "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
@@ -132,21 +125,21 @@ var minivowlresult={
   },
   {
    "source": 6,
-   "target": 6,
-   "valueTo": "member",
-   "propertyTo": "class",
-   "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
-  },
-  {
-   "source": 7,
    "target": 10,
    "valueTo": "member",
    "propertyTo": "class",
    "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
   },
   {
-   "source": 7,
+   "source": 6,
    "target": 7,
+   "valueTo": "member",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
+  },
+  {
+   "source": 7,
+   "target": 6,
    "valueTo": "member",
    "propertyTo": "class",
    "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
@@ -167,7 +160,14 @@ var minivowlresult={
   },
   {
    "source": 7,
-   "target": 6,
+   "target": 10,
+   "valueTo": "member",
+   "propertyTo": "class",
+   "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
+  },
+  {
+   "source": 7,
+   "target": 7,
    "valueTo": "member",
    "propertyTo": "class",
    "uriTo": "http://www.w3.org/2000/01/rdf-schema#member"
